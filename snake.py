@@ -45,4 +45,4 @@ class Snake:
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
         
-        ''' This is a snake game'''
+        ''' This is a snake game which we designed watching the course '''
